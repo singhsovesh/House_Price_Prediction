@@ -132,6 +132,8 @@
   </g>
 </svg>
 
+![House Price Prediction Banner](banner.png)
+
 # 🏠 House Price Prediction System
 
 > **End-to-end Machine Learning project** — from raw data to a production-ready REST API, Streamlit web app, and CI/CD pipeline.
